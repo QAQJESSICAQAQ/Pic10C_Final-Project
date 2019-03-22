@@ -1,6 +1,9 @@
 # Pic10C_Final_Project
 Implementing a Oreo game using qt
+
+
 NOW CHANGES DUE TO LACK OF SKILLS---IMPLEMENTING A PLANE SHOOTING GAME
+
 ## Getting Started
 Watching qt tutorials (knowledge needed to implement the game)
 * Openning new windows
