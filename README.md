@@ -8,10 +8,13 @@ NOW CHANGES DUE TO LACK OF SKILLS---IMPLEMENTING A PLANE SHOOTING GAME
 Watching qt tutorials (knowledge needed to implement the game)
 * Openning new windows
 * QPix
+* QGraphicsScene -- container of all of my game objects, like a map. 
+* QGraphicsItem (QGraphicsRecItem)-- objects in QGraphicsItem and its subclasses goes inside the scene.
+* QGraphicsView --the widget that visualize the scene.
 
 
 ## Acknowledgments
-After realizing the oreo app needs qt 3D creator I decided to switch to a simpler game, which only involves the regular qt creator. 
+After realizing the oreo app needs qt 3D creator I decided to switch to a simpler game, which only involves the regular qt creator (by follwing a qt game tutorial). 
 
 
 
